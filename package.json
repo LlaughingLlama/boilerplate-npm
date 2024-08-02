@@ -9,6 +9,19 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
-	}
+		"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
+	},
+	"version": "1.0.0",
+	"description": "learn npm packages",
+	"keywords": [
+		"lean",
+		"npm",
+		"packages"
+	],
+	"author": "Patrick Senkbeil",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
+	},
+	"homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme"
 }
